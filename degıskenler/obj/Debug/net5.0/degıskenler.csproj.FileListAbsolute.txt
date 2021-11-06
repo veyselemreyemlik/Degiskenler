@@ -1,0 +1,16 @@
+C:\Users\veyse\OneDrive\Masaüstü\Pratikler\degıskenler\bin\Debug\net5.0\degıskenler.exe
+C:\Users\veyse\OneDrive\Masaüstü\Pratikler\degıskenler\bin\Debug\net5.0\degıskenler.deps.json
+C:\Users\veyse\OneDrive\Masaüstü\Pratikler\degıskenler\bin\Debug\net5.0\degıskenler.runtimeconfig.json
+C:\Users\veyse\OneDrive\Masaüstü\Pratikler\degıskenler\bin\Debug\net5.0\degıskenler.runtimeconfig.dev.json
+C:\Users\veyse\OneDrive\Masaüstü\Pratikler\degıskenler\bin\Debug\net5.0\degıskenler.dll
+C:\Users\veyse\OneDrive\Masaüstü\Pratikler\degıskenler\bin\Debug\net5.0\ref\degıskenler.dll
+C:\Users\veyse\OneDrive\Masaüstü\Pratikler\degıskenler\bin\Debug\net5.0\degıskenler.pdb
+C:\Users\veyse\OneDrive\Masaüstü\Pratikler\degıskenler\obj\Debug\net5.0\degıskenler.csproj.AssemblyReference.cache
+C:\Users\veyse\OneDrive\Masaüstü\Pratikler\degıskenler\obj\Debug\net5.0\degıskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\OneDrive\Masaüstü\Pratikler\degıskenler\obj\Debug\net5.0\degıskenler.AssemblyInfoInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\Pratikler\degıskenler\obj\Debug\net5.0\degıskenler.AssemblyInfo.cs
+C:\Users\veyse\OneDrive\Masaüstü\Pratikler\degıskenler\obj\Debug\net5.0\degıskenler.csproj.CoreCompileInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\Pratikler\degıskenler\obj\Debug\net5.0\degıskenler.dll
+C:\Users\veyse\OneDrive\Masaüstü\Pratikler\degıskenler\obj\Debug\net5.0\ref\degıskenler.dll
+C:\Users\veyse\OneDrive\Masaüstü\Pratikler\degıskenler\obj\Debug\net5.0\degıskenler.pdb
+C:\Users\veyse\OneDrive\Masaüstü\Pratikler\degıskenler\obj\Debug\net5.0\degıskenler.genruntimeconfig.cache
